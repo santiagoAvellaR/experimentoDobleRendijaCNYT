@@ -27,7 +27,7 @@
 
 ###### **Bibliografías:**
 ###### - https://www.bbc.com/mundo/noticias-59563136#:~:text=El%20experimento%20de%20la%20doble%20rendija%20es%20un%20experimento%20realizado,luz%20estaba%20formada%20por%20part%C3%ADculas.
-
+###### - https://www.instructables.com/id/How-To-Make-a-Simple-Double-Slit/
 ###### **Autores:**
 ##### La librería hace parte como un trabajo de la asignatura Ciencias Naturas y Tecnología de la Escuela Colombiana de ingeniería Julio Garavito. Profesor, Luis Daniel Benavides Navarro.
 ##### **Nosotros somos Santiago Avellaneda Rodríguez y Daniel Fernando Aldana Bueno. Somos estudiantes de ingeniería de  sistemas de cuarto semestre.**
